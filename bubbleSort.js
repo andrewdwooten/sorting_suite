@@ -1,10 +1,3 @@
-// function bubbleSort(data){
-//   data.sort(function(a,b){
-//     return a - b;
-//   });
-//   return data;
-// };
-
 function bubbleSort(data){
 	do{
 		switched = false;
